@@ -1,0 +1,12 @@
+
+1.) Write a Python program to compute element-wise sum of given tuples.
+
+    Input:
+
+	[(3, 'c', 6, '7d3'),
+	(2, 2),
+	(134, '23d4', 34,45)]
+
+     Output:
+
+	(139, 42, 45)
